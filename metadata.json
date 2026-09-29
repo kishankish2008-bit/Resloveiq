@@ -1,0 +1,6 @@
+{
+  "name": "ResolveIQ - AI Incident Response Agent",
+  "description": "AI-powered incident response platform with Hindsight organizational memory, diagnosing production incidents and learning team resolution patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
